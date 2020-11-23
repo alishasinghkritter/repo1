@@ -7,3 +7,5 @@ else:
 	thirsty =input("are you thristy?");
 	if thirsty=="yes";
 		print("drink water");
+		print("drink soda");
+
