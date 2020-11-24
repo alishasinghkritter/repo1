@@ -7,7 +7,9 @@ public class AddTwoIntegers {
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
+        int mult = first + second;
 
         System.out.println("The sum is: " + sum);
+        System.out.println("The multiple is: " + mult);
     }
 }
